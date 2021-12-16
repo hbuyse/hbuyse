@@ -10,5 +10,5 @@ C developer by day, volleyball player by night
 - Email: `henri.buyse@gmail.com`
 
 #### My repositories
-- My [dotfiles](https://github.com/hbuyse/hbuyse)
+- My [dotfiles](https://github.com/hbuyse/dotfiles)
 
